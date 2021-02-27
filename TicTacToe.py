@@ -1,3 +1,4 @@
+#note:Not-Complete
 #Player
 
 import math,random
