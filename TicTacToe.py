@@ -1,5 +1,5 @@
 #note:Not-Complete
-#Player
+#Player class
 
 import math,random
 
